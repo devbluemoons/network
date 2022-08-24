@@ -18,3 +18,10 @@
 ###### WAN (Wide Area Network)
 
 ###### VPN (Virtual Private Network)
+
+## Virtualization
+- [ ] Host-Only
+- [ ] NAT
+- [ ] Bridged
+
+[Reference.](https://developerin.tistory.com/18)
