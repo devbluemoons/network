@@ -25,3 +25,15 @@
 - [ ] Bridged
 
 [Reference.](https://developerin.tistory.com/18)
+
+###### Set Static IP
+```sh
+# set
+sudo vi /etc/netplan/*.yaml
+
+# apply
+sudo netplan apply
+
+# check
+ip addr
+```
